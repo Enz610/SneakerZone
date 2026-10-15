@@ -31,6 +31,8 @@ main {
 header {
     padding: 25px;
     text-align: center;
+    border-radius: 10px;
+    border-bottom: 2px solid #ffffff;
     background-color: #B00020;
     color: #FFFFFF;
 }
